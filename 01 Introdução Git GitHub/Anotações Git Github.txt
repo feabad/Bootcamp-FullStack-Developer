@@ -1,0 +1,30 @@
+Desafio de Projeto
+
+- Criar um novo repositório no GitHub para os projetos desenvovidos no Bootcamp Spread/Dio Fullstack Developer
+	Dar um nome
+	Breve Descrição
+	Deixar o repositório público
+- Criar o arquivo Readme.md como capa de Projeto
+	[Link sobre como formatar arquivos MarkDown](https://www.markdownguide.org/basic-syntax/)
+- No repositório copiar o link HTTPS para clonar para a maquina local
+	Na pasta para criar o repositorio, clicar com o direito e abrir GIT BASH Here
+	**Comando git clone (Link copiado do repositório)
+	autenticar se necessário
+	**Comando cd (Nome do repositorio) abre a pasta
+	**Comando git status (possibilita verificar o status do repositório
+- Abrir pasta para organização das informações e arquivos pertinentes por assunto/curso
+	**Comando git add . (Coloca o arquivo no caminho)
+	**Comando git commit -m "Escrever comentário entre aspas" (Cria o commit local para subir para a nuvem/Github)
+	**Comando git push origin main (Envia as versões atuais para a nuvem/Github, sincroniza ambas bases)
+
+
+
+
+
+
+
+
+-**Pesquisar sobre o GitIgnore (On my Own)
+-**Pesquisar sobre License (On my Own)
+
+
