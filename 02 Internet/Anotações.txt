@@ -1,0 +1,168 @@
+Aula 1 - Bruno Prado
+
+História da Internet:
+
+Qual foi o primeiro dominio criado?
+E o primeiro blog?
+Qual foi a primeira compra feita pela Internet?
+Qual o site mais antigo ainda em atividade?
+
+Termos chaves:
+cache:as informacoes que os sites deixam salvo no PC.
+crack: piratear algum software com chave falsa.
+html: linguagem de marcaçao, nao faz funcoes, nao troca dados.
+http: protocolo usado pela internet.
+pixel: picture + element, os quadrados que compoem a imagem, cada um com a sua cor unidos geram a imagem que nós vemos.
+URL: endereço que o link gerado carrega.
+keylogger: virus que captura tudo o que é digitado no teclado.
+phishing: golpe que o golpista rouba dados enganando a outra pessoa, com emails, boletos, ligações, etc falsos.
+cookies: histórico de pequenos registros após pesquisas salvos em nossa máquina enviado para outros sites com o intuito de ofertar produtos com base nas pesquisas anteriores.
+firewall: parede que tem como função impedir acessos indevidos ao computador, mas contem muitas falhas, nem sempre sendo eficaz.
+
+Stack Overflow: Forum para pesquisa e interação com outros desenvolvedores.
+
+Latencia: tempo que o data leva para chegar do ponto de inicio ao ponto de destino.
+
+Na sua vida pessoal, houve alguma mudança em relação ao acesso a Internet e ao consumo de dados online?
+
+Aula 2
+Como funciona a Internet:
+
+Backbone: Espinha dorsal, grande estrutura que gerencia tráfego de internet, conexões, são poucas no mundo, quem contrata são as provedoras de Internet.
+
+P2P: comunicação direta entre dois dispositivos sem o uso da Rede de Internet.
+
+Pesquisar sobre Classes de Redes: A, B, C maybe D e E.
+
+Aula 3
+
+TCP/IP: protocolos/documentação dos envios
+
+Portas/Port(Porto em Ingles): 
+20:FTP arquivos
+22: SSH conexao segura entre dois computadores para executar comandos
+25: SMTP emails
+53: DNS IP
+80: HTTP requisição simples de Internet
+443: HTTPS requisição segura de Internet
+
+Roteadores, switches e modems:
+modem: hardware que faz a tradução de 0,1 para linguagem humana
+roteador: distribuidor de Internet para um ou mais disposito de uma rede sem filtro
+switch: distribuidor de Internet para um ou mais disposito de uma rede com filtro de solicitante
+
+Quais portas SMTP e POP3 do Gmail.
+Portas usadas pelo MySQL(banco de dados) e Apache(Servidor web).
+
+Aula 4
+
+Dados Móveis: 
+Wi-Fi: conexão sem fio
+Bluetooth: conexão ponto-a-ponto sem depender de Internet ou cabo de rede.
+
+Aula 5
+
+Browser: navegador de Internet interpretador de LP, linguagem de marcação e conteúdo multimedia.
+LP: Linguagem de Programação
+
+Página Estática x dinâmica: 
+
+Web-server: Interface disponível para fazer requisições e consultas em banco de dados inacessíveis (Correios, Governo)
+Tipos
+estático(serv fisico)xdinâmico(softwares presentes no serv fisico)
+Arquivos: file server
+Aplicações: application server
+Banco de dados: database
+Ou tudo junto
+
+
+Como acessar aos web services dos Correios (dados de um CEP) e Governo (dados estudantes do Brasil)
+
+Aula 6
+
+Stacks (conjunto, amontoado, pilhas(coletivo) em Inglês)
+Tudo o que é necessário em nivel tecnológico para determinado objetivo (criar software, site, app, produzir uma TV, celular, etc)
+As informações sobre a Stack vai definir a capacidade da equipe de desenvolvimento para concluir uma solução, estratégias de negócios, maturidade, contratações, mitigação de riscos, visão para aumento da capacidade, uso de dados.
+
+Front-end: parte da frente, "cara/face" da solução. 
+Aonde: no Site, Software, aplicativo, web service, interface do usuário, UI: User Interface, UX: User Experience.
+Necessário conhecimento em: LP, HTML(LM), CSS (cores de estilo), jQuery/JS/AJAX (LP), PHP (LP), Boostrap/outros frameworks (biblioteca).
+
+Back-end: parte de trás, bastidores da solução.
+Aonde: servidores, banco de dados, faz o meio-de-campo entre interface e bancos de dados, regras de negócios, validações.
+Necessário conhecimento em: MySQL(Banco de Dados), Oracle(Banco de Dados), protocolos de comunicação, PHP(LP), Java(LP), node.js(framework).
+
+Full stack: profissional que atua como Front e Back end para desenvolvimento da Solução.
+
+Quais são as tecnologias utilizadas na stack de grandes empresas (Google, Facebook, IBM, Apple, etc)?
+
+Aula 7
+LP=Linguagem de Programação
+LM=Linguagem de Marcação
+Termos recorrentes/comuns
+
+Principais linguagens:
+HTML (LM) cor
+CSS (LM) folhas de estilo, mais detalhes
+JavaScrpit (jQuery, AJAX, diversas libs) (LP) mais usada
+PHP (LP) Front and Back, manipulação de dados
+.NET (LP) Microsoft
+ASP (LP) 
+Java (LP) antiga e pesada
+Ruby (on Rails) (LP)
+Python (LP) Script
+Perl (LP) Script
+C/C++/C# orientada ao objeto, antigas, seguras, menos parecida com a linguagem humana porem muito usada
+
+Termos Comuns:
+404: Erro famoso quando a pagina não existe
+ALgoritmo: sequencia de passos para executar uma tarefa
+ALT: texto alternativo, quando para o mouse em cima de algo, texto explicativo
+API: parte do site colocado em outro lugar para executar uma ação especifica
+Biblioteca/dll: conjunto de ferramentas disponiveis
+Booststrap: Framework Java
+Breakpoints: pontos chave em uma tela para celular, ou os pontos de parada do debug para analisar o codigo
+controle de versao: etapas de construção, base de dados para possibilitar armazanenamento e compartilhamento, (GitHub/SVN/CVS)
+debug: tentar analisar um bug, ou apos a conclusao para fazer analise detalhada
+deploy: após finalizado partes ou total, o pacote com todos os arquivos para "subir"
+design adaptativo/responsivo: adequação a todos os tipos de tela
+Documentação: interna (coments dos codigos), externa (manual do usuario)
+DPI: proporção de pontos(pixel) na tela, quanto mais pontos maior a resolução
+Editor de texto: Comum ou IDES, NotePad, NotePad++, Sublime Text 
+Estrutura de dados: Pila, Fila, Array, Number, SHAR
+Favicon: figura que representa o site??Pesquisar??
+Framework: caixa de ferramentas para desenvolvedores
+FTP: protocolo de comunicação para troca de arquivos 
+Meta tags: tags HTML dentro do Heather, com funções especificas
+Metodo Ágil: tecnicas de desenvolvimento, garantindo qualidade e tempo (XP, Scrum)
+MVC: model view controller, arquitetura de software separado por model/estrutura de dados, view/Front, controller/Back
+MVP: minimun valiable product, o minimo para o cliente analisar.
+MySQL: linguagem de banco de dados muito comum
+Resolução: quantidade de pixel na tela
+Sistema operacional/SO: Linux, Microsoft, Macos, Android, IOS
+SSL: camada de segurança do site
+WYSIWYG: what you see is what you get, não muda o stilo em uma impressao.
+
+Pesquisar sobre Apache, MySQL e PHP
+
+Aula 8
+
+Aula Prática
+
+Servidor WEB: XAMPP (Apache, MYSQL, PHP, Perl)
+[Link para download]
+(https://www.apachefriends.org/download.html)
+
+Notepad++:
+[Link para download]
+(https://notepad-plus-plus.org/downloads/v8.4/)
+
+Importar a biblioteca
+<script src="https://code.jquery.com/jquery-3.6.0.min.js" ></script>
+
+Usar o efeito Accordion
+https://jqueryui.com/accordion/
+
+
+
+
