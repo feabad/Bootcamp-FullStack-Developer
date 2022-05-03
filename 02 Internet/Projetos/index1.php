@@ -9,7 +9,7 @@
 		<?php
 						
 			for( $i = 0 ; $i < 10 ; $i++ ) {
-				print( "Fernanda Sanchez Abad Linha número " . $i . "<br ;>");
+				print( "Fernanda Sanchez Abad Linha número, Linha número " . $i . "<br ;>");
 			}
 			
 		?>
