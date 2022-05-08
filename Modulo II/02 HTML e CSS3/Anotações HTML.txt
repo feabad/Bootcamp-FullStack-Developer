@@ -1,0 +1,46 @@
+Introdução HTML5
+
+Editor VS Code
+Navegador Chrome
+
+Estrutura Básica
+<!DOCTYPE html>
+<html> todo o conteudo que diz respeito ao documento
+  <head> meta informações que o navegador necessita
+   <meta> charset como o navegador vai fazer o Incode dos caracteres
+   <title></title> aonde vai estar o titulo na aba do navegador
+  </head>
+  <body> conteudo da página
+  </body>
+</html>
+
+Semantica:
+<section> sessao generica como lista de attigos
+<header> cabecalho da pagina ou da section
+<article> conteudo relevante
+<aside> conteudo relacionado ao conteudo principal
+<footer> rodape da pagina
+<h1>-<h6> representam a importancia do titulo da pagina sendo o 1 o mais importante e o 6 menos importante
+
+Textos e Links:
+<p>Conteúdo do artigo.</p>suporta texto, imagens, código e varios outros tipos de conteúdo
+
+<a>Link<a> ancora, interliga varios conteudo
+<a href="Link">Linkedin</a> hiperlink, pagina no site, ou site externo
+<a href="mailto: ">E-mail</a> pode usar para email ou telefone (tel:)
+<a target="_blank">Link</a> como esse link sera aberto
+
+Imagens
+<img>
+<img src="xxxxx.jpg">
+<img alt="descricao da foto">
+
+Listas Tags li, ul e ol
+
+<ul> a ordem das listas nao e importante
+Item 1
+Item 2
+<ol> a ordem dos items e importante e sao representados com numeros, letra ou algarismos romanos
+1. Item 1
+2. Item 3
+<li> item dessa lista
