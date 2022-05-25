@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Estacionamento DIO</title>
+</head>
+    <body>
+        <div>
+            <input type="text" id="nome" placeholder="Digite o nome do veículo: " autocomplete="off"/>
+            <input type="text" id="placa" placeholder="Digite a placa do veículo: " autocomplete="off"/>
+            <button id="cadastrar">Cadastrar</button>
+        </div>
+        <table>
+            <thead>
+                <tr>
+                    <th>Nome</th>
+                    <th>Placa</th>
+                    <th>Entrada</th>
+                    <th>Ações</th>
+                </tr>
+            </thead>
+            <tbody id="patio"></tbody>
+        </table>
+    </body>
+    <footer>
+        <p>Projeto para aula "Sistema de estacionamento usando TypeScript",
+            do professor Andre Soares da <a href="https://www.dio.me" target="_blank">DIO </a></p>
+        <p>Aluna: Fernanda Sanchez Abad / Spread Fullstack Developer Bootcamp</p>
+    </footer>
+<script src="./src/script.js"></script>
+</html>
